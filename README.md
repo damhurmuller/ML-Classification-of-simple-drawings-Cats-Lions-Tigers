@@ -1,3 +1,3 @@
 # ammd_trab2
-Repositório destinado ao segundo trabalho de ammd com redes neurais (profundas).  
-O arquivo de dados era muito grande para o git
+Repository for the second ammd work with (deep) neural networks.
+The datafile was too large for github
