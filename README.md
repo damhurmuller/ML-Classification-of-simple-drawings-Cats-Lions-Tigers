@@ -1,3 +1,2 @@
 # ammd_trab2
-Repository for the second ammd work with (deep) neural networks.
-The datafile was too large for github
+Work dedicated to the machine learning course in college, with the aim of creating three different network models for classifying simple drawings.
